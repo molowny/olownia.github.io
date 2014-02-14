@@ -1,3 +1,24 @@
-name: Mariusz Ołownia
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Olownia
+tagline:          ''
+description:      ''
+url:              https://github.com/olownia
+
+author:
+  name:           Mariusz Ołownia
+  url:            https://github.com/olownia
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/hyde
